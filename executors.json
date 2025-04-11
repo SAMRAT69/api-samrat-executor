@@ -2,81 +2,99 @@
   "android": {
     "fluxus": {
       "title": "Fluxus (Android)",
-      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418662254739506/2558-fluxus.png?ex=679a6654&is=679914d4&hm=b456f00d3885653f7b08a6ecafaa7352f50b6cd13a4c8742ec654eccc1c57fcd&",
-      "link": "https://webfiles.pro/file/Fluxus70.apk",
-      "version": "2.663"
+      "image": "https://flux.li/assets/faviconbutpng.e3767602.png",
+      "link": "https://webfiles.pro/file/Fluxus74.apk",
+      "version": "2.665"
     },
     "krnl": {
       "title": "Krnl (Android)",
-      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1340642766241398804/download.png?ex=67b31a5f&is=67b1c8df&hm=eeea0ca103dfc8c411693b887597d5ceb7e1dd17dc1e386056189d92f91b5885&",
-      "link": "https://wearedevs.net/d/Krnl",
-      "version": "2.663"
+      "image": "https://cdn.wearedevs.net/images/thumbnails/krnl.jpeg",
+      "link": "https://cdnwrd2.com/r/54921/1744333493468/krnl_release_2.666.609_2025.4.10_22.apk",
+      "version": "2.666"
     },
     "delta": {
       "title": "Delta (Android)",
-      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418660518297631/images_4.jpg?ex=67a2f813&is=67a1a693&hm=2d6c273e8b0e6b8d09fbbb2e400cebf538e1abbc7e401f35d3ef6c5f6560af24&",
-      "link": "https://www.mediafire.com/file_premium/g7j4ilf53pw8uu7/Delta-663.659-01.apk/file",
-      "version": "2.663"
+      "image": "https://i.ibb.co/nbDv3Lx/delta.png",
+      "link": "https://www.mediafire.com/file_premium/xpf1j5jyqc7wjuy/Delta-666.609-01.apk/file",
+      "version": "2.666"
     },
     "arceusx": {
       "title": "Arceus X (Android)",
-      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418661784981524/1400x1400_16515083.png?ex=67a2f814&is=67a1a694&hm=077f9eff854f77c2c9ae027fd3977d64b247ff982c5cb9dc34504aab89ddbf93&",
-      "link": "https://www.mediafire.com/file/xdbmry6u3f40pvc/Roblox_Arceus_X_NEO_1.5.9.apk/file",
-      "version": "1.5.9"
+      "image": "https://i.ibb.co/khKK7PC/arceus.png",
+      "link": "https://www.mediafire.com/file/7zm9iods6982rb5/Roblox_Arceus_X_NEO_1.6.2.apk/file",
+      "version": "1.6.2"
     },
     "codex": {
       "title": "Code X (Android)",
-      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418660916625429/1721205899428.png?ex=67a2f813&is=67a1a693&hm=0149f67bb4340e55743129e0b2df6cdbaf8e06c7df6c3156eeb6d7f4699e54e6&",
+      "image": "https://codex.lol/static/icons/icon.svg",
       "link": "https://www.mediafire.com/file/pb7w6l12892805q/Codex+v2.665.apk/file",
       "version": "2.665"
     },
     "cryptic": {
       "title": "Cryptic (Android)",
-      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418620911620138/CrypticLogo.png?ex=67a2f80a&is=67a1a68a&hm=b076d88bde2eaff479c4db586e58df8e2d61e37f332e3affa1c9bab5d89873f6&",
-      "link": "https://www.mediafire.com/file/8eutfzqpwixrwlv/Cryptic+2.663.660+APK.apk/file",
-      "version": "2.663"
+      "image": "https://getcryptic.net/assets/moonglow-HcoSKqMr.png",
+      "link": "https://www.mediafire.com/file/ihzxcyzci5jypgw/Cryptic_2.665.684_APK.apk/file",
+      "version": "2.665"
     },
     "trigon": {
       "title": "Trigon (Android)",
-      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418659033518120/cropped-New-Trigon-with-Shadow-150x150.png?ex=67a2f813&is=67a1a693&hm=98bf3280db04235ec3a0a609b976341cf9c6e84fec90b351c7cb0b83ce92745c&",
+      "image": "https://ugc.production.linktr.ee/YWHLFzTTTmm996iiTmBg_DG4Pp4UWb4U6N25d?io=true&size=avatar-v3_0",
       "link": "https://www.mediafire.com/file/1nfqw82bkns9jmu/Trigon_v2.665.684.apk/file",
       "version": "2.665"
     },
     "revelix": {
       "title": "ReveliX (Android)",
-      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1336836786609066014/1327519786036367410.png?ex=67a541c7&is=67a3f047&hm=63184840edacefd790d01a427fd5870cfaf95e462b603ae2c033ebe670d9bd5a&",
-      "link": "https://www.mediafire.com/file/uezzebwvkigyrzh/Feast_V663.apk/file",
-      "version": "2.663"
+      "image": "https://cdn.discordapp.com/emojis/1327519786036367410?size=512",
+      "link": "https://www.mediafire.com/file/boz6z4sbz0bqgna/Revelix-1.3.0.apk/file",
+      "version": "2.666"
     },
     "vegax": {
       "title": "Vega X (Android)",
-      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418621511139378/V_logo_white.png?ex=67a2f80a&is=67a1a68a&hm=64892cbf2276e54d0659ab3a9296c56319f1220f7e19e90a893d4dea515b8373&",
+      "image": "https://vegax.gg/assets/img/V_logo_white.png",
       "link": "https://github.com/1f0yt/community/releases/download/Vegax/Vega.X.apk",
-      "version": "2.662"
+      "version": "2.665"
     },
     "evon": {
       "title": "Evon (Android)",
-      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418659381776424/image04.png?ex=67a2f813&is=67a1a693&hm=5ea759fda672ca8228d2127e183782202d89a6070653d3d9b00e57c75ae9cc05&",
+      "image": "https://evon.cc/favicon.png",
       "link": "https://evon.cc/android/dl-a/Evon.apk",
-      "version": "2.662"
+      "version": "2.665"
     },
     "cubix": {
       "title": "Cubix (Android)",
-      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418660119842856/logo.png?ex=67a2f813&is=67a1a693&hm=48b79f3fd3605bf68c73a51770aab2c4f12be4e9203f8d5342ac4176513c93d1&",
-      "link": "https://www.mediafire.com/file/4aj4l5qp21h8035/Cubix+-+2.662.537.apk/file",
-      "version": "2.662"
+      "image": "https://files.catbox.moe/bu8ygj.png",
+      "link": "https://www.mediafire.com/file/9evro9trrgpdgh0/Cubix.apk/file",
+      "version": "2.665"
     },
     "frostware": {
       "title": "Frostware (Android)",
-      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1336836786017665054/1327716210716180500.png?ex=67b31987&is=67b1c807&hm=15e2b5d07993cfe46e7039aad952c01b1654c3f332c25e0211a692675e196d04&",
-      "link": "https://www.mediafire.com/file/ut2h72wldbneysb/Frostware+V3.6.apk/file",
-      "version": "2.663"
+      "image": "https://files.catbox.moe/o5nmea.png",
+      "link": "https://www.mediafire.com/file/dr492w6uymxylys/Frostware+V4.0.apk/file",
+      "version": "2.666"
     },
     "nebula": {
       "title": "Nebula (Android)",
-      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1336836786260807771/1326945500380921856.png?ex=67b31987&is=67b1c807&hm=bd9f99d9570282121d7477f7db3063cd5fe59e5e86c8ad843a54e9e95a848a26&",
-      "link": "https://www.mediafire.com/file/ibukb6twaomk8yc/Nebula_664.apk/file",
-      "version": "2.664"
+      "image": "https://files.catbox.moe/gl077v.png",
+      "link": "https://www.mediafire.com/file/04zwizo2iovbwzf/Nebula666.apk/file",
+      "version": "2.666"
+    },
+    "rift": {
+      "title": "Rift (Android)",
+      "image": "https://encrypted-bytes.com/download/ca079e2f527d9040dcf3c33fb9e17927d690415b1446dbe6f656e41585ee7e22/f4f2a0fa37121512307524f3ec36bc93/f191822a39f958855eb5479cc6c089e4a1695d91d212a59f348c95971a6dba67a71c40a5211e0abc2270d0b9fae62dcf5599ead1315ac76968974d48eba06ce552a9a4989f3c3bd8aa50a2ed96bfb592/42c0c6b917316530c49efe638c91a79c",
+      "link": "https://www.mediafire.com/file/q752kjsu047tzlu/Rift-2.5.0.apk/file",
+      "version": "2.666"
+    },
+    "ronix": {
+      "title": "RoniX (Android)",
+      "image": "data:image/webp;base64,UklGRtYHAABXRUJQVlA4WAoAAAAgAAAAXwAAXwAASUNDUMgBAAAAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADZWUDgg6AUAAPAbAJ0BKmAAYAA+bTCTRqQjIiEo9m04gA2JQBg4d8W2m40a98EeXcH87dp0EDZ4ZflblifLeM96IeZWly9JJLiek9Sco+aKoVBRwEj4KKzpv/r5gUerEe8UdJgyXO+FbJoMsOCEORkAqM5Ad+SjdXufw3pvLYPGzLi3s4vhmHFtr6Iybju0jFq+bZ3rP/NuiRWBgD8RZQY4j69QG48dcCU08kEcPlk06rn/wqidF0+UifXxBYV43BpsCYXJ08coUUEc/9HrY+gk4Cx0hEu1HG9RaxvN71kcQirNMET5IIeG/lqPQ2UPPwAA/vzzaj/2D/KsEeVpgYZAqZCK1f4YgsRQaiMHTVkWa4zXXJx1UdlIRGokeIEXYdyDe1gsxf3wXDCAlpwJl1E/oDxMJ93qf98PPdgA5LgWF7ddFOcaabtn5Y3zTuYgVdcPD4hNuFuDmsYkgEqX+L/LLngnsl2eu9gbPpT2oVx1P3BBdjV484DK5X0MvvFHqtks/CfgR1kWsIHjmfctyAO6YClAcV6DKgUbxETfxKC8jSTxJZY5E/Z0gIR0QDY3f/PrVJRTokfQTsrPJU4cQNt0vB80zQaBm2etkeerRYrvOj5mGS8PUjI8h5/xdjQYfvBd7QWl8v9/D0DyLuQEbIlksZAYCnP0zznNXNSSQPbyrnqrWmzrXbAYQju/YbuSCgKeXfrkIWidLR3671pe65/IUMcsdo+NLHCpdNBVgBCbo/tKZrBUhgIdRwf2IfVyrogbtqNQaa87Vk9QepMFCjPUpNZRweiYA0snyE3uodk2xGomjiw3zorFdaVAtMLoQa0RXTWRkjaVkYv4hFE12e3FPLw0Qzd397T3Nl7rmCtl8poXDj8Pf0brFnTpfpYp1iJ6zB9ocRsHstSqik2jbTDuc3B1sFjZdASGDKMPeqYsAIactijzTxejERN1q2xkat5udraCjGB4kFTew+HmaDAXFz2/kE1tkilNdUqytAbWWA2FbYPx2vSLQFWmnePPZVkd+xCSqtrq3lnDYUo7YQyAgWJ+CZF0PbkO2yz9PeXtKnowBhUaUkY5q/krG6Wy9CCUVEvZqAzQMwAr31dvib8KeF7f0GuWssflEkBHNhDQljOuliDxJ2ZC1CyN/bNUWEAuOSmMmJRRjFcqlB1XOf5i7C5f15C9dcVco/Xt0/wW6Zfi5+8CmdLokAqpzcTc0HJXgwmbl1mbPKwJ6wItjY5rcSzAPVTXKSUaqtbeN33o2cKyhfSqeVi8Jzn6dcpamy4DifhvywMMRwqZAKrNfRyswTYtbuhnwy16qLDtupFMWTdcJNdOKILqEIoSAi3w5cJWz0b76xS6lvVMP1MS5ONwftYTeTQ8tFt23ofUHhDc/6isU6sIb+c+iDm1XiqFuPT2Kh/P7s9PfKjeD50n8QoqfpRjcdv1hMLOPbm79eNR8WUbdsb1LFiXwiXkrLTwBSi0k8gfW5P0Gf5d7+xfO7mKZ68xBM/2U3yzm+rRgKCjMh/rOW3QIjsEPX3vMfns99uZQ5mY8jlD4/1gedJrD4xhn+HFFb0PGecylqe5M3Fc5lEw7JmHwl5POZY6hprFabH8nDJo32CV0HVS6fDvwrGEf5fyLLOp9/QgVdCSBh4PsAysds8AEgwv/N/0DI/8qRdmDyr6EHYUfjcIoU6Rqy2H0kpl3cfD7CjvZlCy4kXlICkNCJ5GVzPzzIyQJXp7P7+De+knePd4Q0VkiEMuZOvpcCAgk4y6o6uw5Q1AvNU0jYYCjnVjPJTqLm9CeGlILRQckUHEfg6ejn2ep1toprMgLrtXOapsnTEc1FFdXbqJLoAhP+xXrwJcV1E+MI12PFlM5JELs07x22XnhejV7dJIa4FowqEke66j1htkHwtfV5o3PpYDiWONd6HRP9syQK0o2pTs/yq53FPz73ks4mE8v8Q4WSpFbbSf+ba3xqnHyR1ynd8mGksv8PQYxRbaRPtb7zw7x+qb+q0tXki3KVdNPyhMEc+sXfrwnWjP2gAAAA==",
+      "link": "https://www.mediafire.com/file/63fpqdcntw0giyx/Ronix.apk/file",
+      "version": "2.665"
+    },
+    "illusion": {
+      "title": "Illusion (Android)",
+      "image": "data:image/webp;base64,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",
+      "link": "https://download.projectillusion.dev/file/Illusion.apk",
+      "version": "2.667"
     }
   },
   "ios": {
