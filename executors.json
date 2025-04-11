@@ -228,6 +228,24 @@
       "image": "https://codex.lol/static/icons/icon.svg",
       "link": "https://www.mediafire.com/file/6k9e7dtrtkghf8p/Codex+VNG+V2.660.apk/file/",
       "version": "2.660"
-    }
+    },
+    "arceusx": {
+      "title": "ArceusX (VNG ANDROID)",
+      "image": "https://i.ibb.co/khKK7PC/arceus.png",
+      "link": "https://www.mediafire.com/file/lwgk7d75cea43yk/Roblox_-_VNG_Arceus_X_NEO_1.5.4.apk/file",
+      "version": "1.5.4"
+    },
+    "krnl": {
+      "title": "Krnl (VNG ANDROID)",
+      "image": "https://cdn.wearedevs.net/images/thumbnails/krnl.jpeg",
+      "link": "https://cdnwrd2.com/r/54921/1744255219537/krnl_vng_release_2.666.609_2025.4.9_4.apk",
+      "version": "2.666"
+    },
+    "cryptic": {
+      "title": "Cryptic (VNG ANDROID)",
+      "image": "https://getcryptic.net/assets/moonglow-HcoSKqMr.png",
+      "link": "https://www.mediafire.com/file/hxquu1o35pkr3cv/Cryptic_2.659.473_VNG.apk/file",
+      "version": "2.659"
+    },
   }
 }
