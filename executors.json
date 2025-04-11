@@ -221,5 +221,14 @@
       "link": "https://www.mediafire.com/file/8bj335fl9za2axu/ReveliX.zip/file",
       "version": "version-8794089906d54893"
     }
-  }
+  },
+  "vng": {
+    "codex": {
+      "title": "CodeX (VNG ANDROID)",
+      "image": "https://codex.lol/static/icons/icon.svg",
+      "link": "https://www.mediafire.com/file/6k9e7dtrtkghf8p/Codex+VNG+V2.660.apk/file/",
+      "version": "2.660"
+    },
+  
+
 }
