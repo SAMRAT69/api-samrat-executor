@@ -1,0 +1,200 @@
+{
+  "android": {
+    "fluxus": {
+      "title": "Fluxus (Android)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418662254739506/2558-fluxus.png?ex=679a6654&is=679914d4&hm=b456f00d3885653f7b08a6ecafaa7352f50b6cd13a4c8742ec654eccc1c57fcd&",
+      "link": "https://webfiles.pro/file/Fluxus70.apk",
+      "version": "2.663"
+    },
+    "krnl": {
+      "title": "Krnl (Android)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1340642766241398804/download.png?ex=67b31a5f&is=67b1c8df&hm=eeea0ca103dfc8c411693b887597d5ceb7e1dd17dc1e386056189d92f91b5885&",
+      "link": "https://wearedevs.net/d/Krnl",
+      "version": "2.663"
+    },
+    "delta": {
+      "title": "Delta (Android)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418660518297631/images_4.jpg?ex=67a2f813&is=67a1a693&hm=2d6c273e8b0e6b8d09fbbb2e400cebf538e1abbc7e401f35d3ef6c5f6560af24&",
+      "link": "https://www.mediafire.com/file_premium/g7j4ilf53pw8uu7/Delta-663.659-01.apk/file",
+      "version": "2.663"
+    },
+    "arceusx": {
+      "title": "Arceus X (Android)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418661784981524/1400x1400_16515083.png?ex=67a2f814&is=67a1a694&hm=077f9eff854f77c2c9ae027fd3977d64b247ff982c5cb9dc34504aab89ddbf93&",
+      "link": "https://www.mediafire.com/file/xdbmry6u3f40pvc/Roblox_Arceus_X_NEO_1.5.9.apk/file",
+      "version": "1.5.9"
+    },
+    "codex": {
+      "title": "Code X (Android)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418660916625429/1721205899428.png?ex=67a2f813&is=67a1a693&hm=0149f67bb4340e55743129e0b2df6cdbaf8e06c7df6c3156eeb6d7f4699e54e6&",
+      "link": "https://www.mediafire.com/file/pb7w6l12892805q/Codex+v2.665.apk/file",
+      "version": "2.665"
+    },
+    "cryptic": {
+      "title": "Cryptic (Android)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418620911620138/CrypticLogo.png?ex=67a2f80a&is=67a1a68a&hm=b076d88bde2eaff479c4db586e58df8e2d61e37f332e3affa1c9bab5d89873f6&",
+      "link": "https://www.mediafire.com/file/8eutfzqpwixrwlv/Cryptic+2.663.660+APK.apk/file",
+      "version": "2.663"
+    },
+    "trigon": {
+      "title": "Trigon (Android)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418659033518120/cropped-New-Trigon-with-Shadow-150x150.png?ex=67a2f813&is=67a1a693&hm=98bf3280db04235ec3a0a609b976341cf9c6e84fec90b351c7cb0b83ce92745c&",
+      "link": "https://www.mediafire.com/file/1nfqw82bkns9jmu/Trigon_v2.665.684.apk/file",
+      "version": "2.665"
+    },
+    "revelix": {
+      "title": "ReveliX (Android)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1336836786609066014/1327519786036367410.png?ex=67a541c7&is=67a3f047&hm=63184840edacefd790d01a427fd5870cfaf95e462b603ae2c033ebe670d9bd5a&",
+      "link": "https://www.mediafire.com/file/uezzebwvkigyrzh/Feast_V663.apk/file",
+      "version": "2.663"
+    },
+    "vegax": {
+      "title": "Vega X (Android)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418621511139378/V_logo_white.png?ex=67a2f80a&is=67a1a68a&hm=64892cbf2276e54d0659ab3a9296c56319f1220f7e19e90a893d4dea515b8373&",
+      "link": "https://github.com/1f0yt/community/releases/download/Vegax/Vega.X.apk",
+      "version": "2.662"
+    },
+    "evon": {
+      "title": "Evon (Android)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418659381776424/image04.png?ex=67a2f813&is=67a1a693&hm=5ea759fda672ca8228d2127e183782202d89a6070653d3d9b00e57c75ae9cc05&",
+      "link": "https://evon.cc/android/dl-a/Evon.apk",
+      "version": "2.662"
+    },
+    "cubix": {
+      "title": "Cubix (Android)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418660119842856/logo.png?ex=67a2f813&is=67a1a693&hm=48b79f3fd3605bf68c73a51770aab2c4f12be4e9203f8d5342ac4176513c93d1&",
+      "link": "https://www.mediafire.com/file/4aj4l5qp21h8035/Cubix+-+2.662.537.apk/file",
+      "version": "2.662"
+    },
+    "frostware": {
+      "title": "Frostware (Android)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1336836786017665054/1327716210716180500.png?ex=67b31987&is=67b1c807&hm=15e2b5d07993cfe46e7039aad952c01b1654c3f332c25e0211a692675e196d04&",
+      "link": "https://www.mediafire.com/file/ut2h72wldbneysb/Frostware+V3.6.apk/file",
+      "version": "2.663"
+    },
+    "nebula": {
+      "title": "Nebula (Android)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1336836786260807771/1326945500380921856.png?ex=67b31987&is=67b1c807&hm=bd9f99d9570282121d7477f7db3063cd5fe59e5e86c8ad843a54e9e95a848a26&",
+      "link": "https://www.mediafire.com/file/ibukb6twaomk8yc/Nebula_664.apk/file",
+      "version": "2.664"
+    }
+  },
+  "ios": {
+    "appleware": {
+      "title": "AppleWare (IOS)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418619112001688/1273713305051205794.png?ex=67a4f249&is=67a3a0c9&hm=7a0d8f3a4efd384da6d1b8eaa0b1bc922abf81d59fb91080e9f55308ea5daa2f&",
+      "link": "https://appleware.dev/download",
+      "version": "2.659"
+    },
+    "delta": {
+      "title": "Delta (IOS)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418566066901053/Delta-Executor-official-logo.png?ex=67a4f23d&is=67a3a0bd&hm=8922520003a4593ec80c64d1567279bbe76205362e84d2f758619c078fda453d&",
+      "link": "https://store2.gofile.io/download/direct/535615e4-2874-4064-b43b-59c3902dacce/Delta-662.536-01.ipa",
+      "version": "2.662"
+    },
+    "codex": {
+      "title": "CodeX (IOS)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418660916625429/1721205899428.png?ex=67a4f253&is=67a3a0d3&hm=80ef849f3a945adc1b203566c7b730f5a3c22b545daeee6d6a84e83e25955161&",
+      "link": "https://www.mediafire.com/file/l521afg5r974vy0/Codex+664.ipa/file",
+      "version": "2.660"
+    },
+    "arceusx": {
+      "title": "ArceusX (IOS)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418661784981524/1400x1400_16515083.png?ex=67a4f254&is=67a3a0d4&hm=63f33465a99f1f7015a67994f91381c832ebdb86a61d667e2fe14de9039e9e1d&",
+      "link": "https://www.mediafire.com/file/0mhtddq7q0mk1ey/Roblox_-_iOS_Arceus_X_NEO_1.5.4.ipa/file",
+      "version": "1.5.4"
+    },
+    "cryptic": {
+      "title": "Cryptic (IOS)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418620911620138/CrypticLogo.png?ex=67a4f24a&is=67a3a0ca&hm=a5ad590b977333d61b0dec082366c7d9722f410f548db5e4eba6f72231a4c18b&",
+      "link": "https://www.mediafire.com/file/aahwztf05uzlhqo/Cryptic_2.660.649.ipa/file",
+      "version": "2.660"
+    }
+  },
+  "pc": {
+    "solara": {
+      "title": "Solara (Windows)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418618700959744/1273713290383724604.png?ex=67a59b09&is=67a44989&hm=a670b7a81cfc0aefe52e2a42ea0f2fecb599007ea756aec0f8f96675bbf93e6b&",
+      "link": "https://api.getsolara.gg/download/static/files/BootstrapperNew.exe",
+      "version": "Unknown"
+    },
+    "wave": {
+      "title": "Wave (Windows)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418661298438154/1720258698515.png?ex=67a59b14&is=67a44994&hm=024a241fc8e298ed8525142a901c10845db3f7bc4491316feb81ae4b1a4d1d44&",
+      "link": "https://getwave.gg/",
+      "version": "Unknown"
+    },
+    "fluxus": {
+      "title": "Fluxus Windows",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418662254739506/2558-fluxus.png?ex=67a59b14&is=67a44994&hm=7e50dc3d0c4efe7ab5d39c76da080ca37ff7884c22b621e55ae41e52fe093268&",
+      "link": "https://fluxteam.cc/windows",
+      "version": "Unknown"
+    },
+    "swift": {
+      "title": "Swift (Windows)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1337055572867940484/1327695621531897928.png?ex=67a60d89&is=67a4bc09&hm=92a5051604b0ea0437a3b72e602ac62a587c6ec6cbaa42fd3e7befacaa45ee7a&",
+      "link": "https://getswift.gg/download",
+      "version": "Beta"
+    },
+    "xeno": {
+      "title": "Xeno (Windows)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1337055573295894548/1323561539709702235.png?ex=67a60d89&is=67a4bc09&hm=26303f5e81e10ca9b3a4d3e608bd7c9b404269062c2005519fac3d278eddf1a1&",
+      "link": "https://discord.gg/getxeno",
+      "version": "Unknown"
+    },
+    "thunder": {
+      "title": "Thunder Client (Windows)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1337055145212641330/1738846318026.png?ex=67a60d23&is=67a4bba3&hm=f81dade58b9ebbc1a3cc7c24900e3768894e106b89d02f11596564b3d5b325ba&",
+      "link": "https://discord.gg/thunderclient",
+      "version": "Unknown"
+    },
+    "nezur": {
+      "title": "Nezur (Windows)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418618201833563/1273713766818906113.png?ex=67a59b09&is=67a44989&hm=025dc2bf73bb10d7576267b09a89843e2613ed1d009a75aa7e51a4e6cca40825&",
+      "link": "https://nezur.io/",
+      "version": "Unknown"
+    },
+    "kiwix": {
+      "title": "KiwiX (Windows)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418617631412265/1273713790638096385.png?ex=67a59b09&is=67a44989&hm=948af41bce1637b8a5a6d691b94166aed22deb20412cb37f25fe217a1e2e912f&",
+      "link": "https://kiwiexploits.com/",
+      "version": "Unknown"
+    },
+    "celery": {
+      "title": "Celery (Windows)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418565638819951/1730015978326.png?ex=67a59afd&is=67a4497d&hm=5ce82eab91956a118ddc84e07b20a32a85e446e506e28f2ab84d6d6db9bf262f&",
+      "link": "https://www.mediafire.com/file/54d8gwkjlme5dty/Release.zip/file",
+      "version": "Unknown"
+    },
+    "synapsez": {
+      "title": "SynapseZ (Windows)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418617195335721/PI01Z6fGnjOMJcjwcYySlhmw.png?ex=67a59b09&is=67a44989&hm=0d8f42da697b9f27231b144fd2045d90a85ea3d9528cac27e22ae75e819908de&",
+      "link": "https://synapsez.net/download",
+      "version": "Unknown"
+    },
+    "luna": {
+      "title": "Luna (Windows)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1324505879499767828/luna.png?ex=67a5e179&is=67a48ff9&hm=1e3530f06c175e60facfc40e7ea65025bbc51fab460ed0f94b4646fe16839a21&",
+      "link": "https://github.com/suffz/luna/releases/tag/v1.6.8b1",
+      "version": "Unknown"
+    },
+    "argon": {
+      "title": "Argon (Windows)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1324505878543470633/argon.png?ex=67a5e179&is=67a48ff9&hm=74a874ed4e6845f86d6e50c5b9c3e178d025696f16bb0bf14839b65792e0db66&",
+      "link": "https://gofile.io/d/Cf9DMk",
+      "version": "Unknown"
+    },
+    "cryptic": {
+      "title": "Cryptic (Windows)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418620911620138/CrypticLogo.png?ex=67a59b0a&is=67a4498a&hm=c9d689f8ea286ea647e06f4fb0a87ff9dc9c1c67bd9402a03d8fab11215fee5f&",
+      "link": "https://www.mediafire.com/file/o5nth1568oz727t/Cryptic.zip/file",
+      "version": "Unknown"
+    },
+    "revelix": {
+      "title": "ReveliX (Windows)",
+      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1336836786609066014/1327519786036367410.png?ex=67a541c7&is=67a3f047&hm=63184840edacefd790d01a427fd5870cfaf95e462b603ae2c033ebe670d9bd5a&",
+      "link": "https://gofile.io/d/NnuuYP",
+      "version": "Beta V1"
+    }
+  }
+}
