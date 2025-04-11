@@ -130,89 +130,96 @@
     }
   },
   "pc": {
-    "solara": {
-      "title": "Solara (Windows)",
-      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418618700959744/1273713290383724604.png?ex=67a59b09&is=67a44989&hm=a670b7a81cfc0aefe52e2a42ea0f2fecb599007ea756aec0f8f96675bbf93e6b&",
-      "link": "https://api.getsolara.gg/download/static/files/BootstrapperNew.exe",
-      "version": "Unknown"
-    },
     "wave": {
       "title": "Wave (Windows)",
-      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418661298438154/1720258698515.png?ex=67a59b14&is=67a44994&hm=024a241fc8e298ed8525142a901c10845db3f7bc4491316feb81ae4b1a4d1d44&",
+      "image": "https://getwave.gg/_next/image?url=%2Fassets%2FWave.png&w=96&q=75",
       "link": "https://getwave.gg/",
+      "version": "Always Up"
+    },
+    "subzero": {
+      "title": "SubZero (Windows)",
+      "image": "https://getsubz.xyz/images/subzlogo32.png",
+      "link": "https://filedm.com/BuMVn",
       "version": "Unknown"
     },
-    "fluxus": {
-      "title": "Fluxus Windows",
-      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418662254739506/2558-fluxus.png?ex=67a59b14&is=67a44994&hm=7e50dc3d0c4efe7ab5d39c76da080ca37ff7884c22b621e55ae41e52fe093268&",
-      "link": "https://fluxteam.cc/windows",
-      "version": "Unknown"
+    "velocity": {
+      "title": "Velocity (Windows)",
+      "image": "https://www.getvelocity.live/_next/image?url=%2Fvelocity.png&w=48&q=75",
+      "link": "https://gofile.io/d/r1wyNf",
+      "version": "version-c2c9efad42eb44e5"
     },
+
     "swift": {
       "title": "Swift (Windows)",
-      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1337055572867940484/1327695621531897928.png?ex=67a60d89&is=67a4bc09&hm=92a5051604b0ea0437a3b72e602ac62a587c6ec6cbaa42fd3e7befacaa45ee7a&",
+      "image": "https://framerusercontent.com/images/5RRsZA9ZcW9tH9sh5h0MZiPqAg.png",
       "link": "https://getswift.gg/download",
-      "version": "Beta"
+      "version": "version-5a6b6797f4e04078"
     },
     "xeno": {
       "title": "Xeno (Windows)",
-      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1337055573295894548/1323561539709702235.png?ex=67a60d89&is=67a4bc09&hm=26303f5e81e10ca9b3a4d3e608bd7c9b404269062c2005519fac3d278eddf1a1&",
-      "link": "https://discord.gg/getxeno",
-      "version": "Unknown"
-    },
-    "thunder": {
-      "title": "Thunder Client (Windows)",
-      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1337055145212641330/1738846318026.png?ex=67a60d23&is=67a4bba3&hm=f81dade58b9ebbc1a3cc7c24900e3768894e106b89d02f11596564b3d5b325ba&",
-      "link": "https://discord.gg/thunderclient",
+      "image": "https://cdn.wearedevs.net/images/thumbnails/xeno-0131252.webp",
+      "link": "https://xeno.now/download",
       "version": "Unknown"
     },
     "nezur": {
       "title": "Nezur (Windows)",
-      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418618201833563/1273713766818906113.png?ex=67a59b09&is=67a44989&hm=025dc2bf73bb10d7576267b09a89843e2613ed1d009a75aa7e51a4e6cca40825&",
+      "image": "https://framerusercontent.com/images/JHdhIcC3tGjhFhq5d2jB104VkR4.webp",
       "link": "https://nezur.io/",
       "version": "Unknown"
     },
-    "kiwix": {
-      "title": "KiwiX (Windows)",
-      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418617631412265/1273713790638096385.png?ex=67a59b09&is=67a44989&hm=948af41bce1637b8a5a6d691b94166aed22deb20412cb37f25fe217a1e2e912f&",
-      "link": "https://kiwiexploits.com/",
+    "ronix": {
+      "title": "RoniX (Windows)",
+      "image": "data:image/webp;base64,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",
+      "link": "https://cdnwrd2.com/r/154522/1743965069251/Bootstrapper.exe",
       "version": "Unknown"
     },
-    "celery": {
-      "title": "Celery (Windows)",
-      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418565638819951/1730015978326.png?ex=67a59afd&is=67a4497d&hm=5ce82eab91956a118ddc84e07b20a32a85e446e506e28f2ab84d6d6db9bf262f&",
-      "link": "https://www.mediafire.com/file/54d8gwkjlme5dty/Release.zip/file",
-      "version": "Unknown"
+    "lx63": {
+      "title": "LX63 (Windows)",
+      "image": "https://cdn.wearedevs.net/images/thumbnails/lx63.webp",
+      "link": "https://wearedevs.net/d/LX63",
+      "version": "version-5a6b6797f4e04078"
     },
-    "synapsez": {
-      "title": "SynapseZ (Windows)",
-      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418617195335721/PI01Z6fGnjOMJcjwcYySlhmw.png?ex=67a59b09&is=67a44989&hm=0d8f42da697b9f27231b144fd2045d90a85ea3d9528cac27e22ae75e819908de&",
-      "link": "https://synapsez.net/download",
+    "zorara": {
+      "title": "Zorara (Windows)",
+      "image": "https://cdn.wearedevs.net/images/thumbnails/zorara-011925.jpg",
+      "link": "https://wearedevs.net/d/Zorara",
+      "version": "version-5a6b6797f4e04078"
+    },
+    "awp.gg": {
+      "title": "AWP.GG (Windows)",
+      "image": "https://buyawp.gg/AWPlogo.svg",
+      "link": "https://buyawp.gg/",
+      "version": "Always Up"
+    },
+    "atlantis": {
+      "title": "Atlantis (Windows)",
+      "image": "https://cdn.discordapp.com/splashes/1311387776893321337/1a6d68b771aafe41d7ceb13ed2fa234d.jpg?size=512",
+      "link": "https://gofile.io/d/xSxHMQ",
       "version": "Unknown"
     },
     "luna": {
       "title": "Luna (Windows)",
-      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1324505879499767828/luna.png?ex=67a5e179&is=67a48ff9&hm=1e3530f06c175e60facfc40e7ea65025bbc51fab460ed0f94b4646fe16839a21&",
-      "link": "https://github.com/suffz/luna/releases/tag/v1.6.8b1",
+      "image": "https://avatars.githubusercontent.com/u/84757238?s=460&v=460",
+      "link": "https://github.com/suffz/luna/raw/refs/heads/main/Bootstrapper.zip",
       "version": "Unknown"
     },
     "argon": {
       "title": "Argon (Windows)",
-      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1324505878543470633/argon.png?ex=67a5e179&is=67a48ff9&hm=74a874ed4e6845f86d6e50c5b9c3e178d025696f16bb0bf14839b65792e0db66&",
-      "link": "https://gofile.io/d/Cf9DMk",
+      "image": "https://getargon.xyz/argon.png",
+      "link": "https://superfiles.net/argon/Argon-2.1.4.rar",
       "version": "Unknown"
     },
     "cryptic": {
       "title": "Cryptic (Windows)",
-      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1301418620911620138/CrypticLogo.png?ex=67a59b0a&is=67a4498a&hm=c9d689f8ea286ea647e06f4fb0a87ff9dc9c1c67bd9402a03d8fab11215fee5f&",
-      "link": "https://www.mediafire.com/file/o5nth1568oz727t/Cryptic.zip/file",
+      "image": "https://getcryptic.net/assets/moonglow-HcoSKqMr.png",
+      "link": "https://www.mediafire.com/file/ix1zxdt59pd5m1n/cryptic-installer.exe/file",
       "version": "Unknown"
     },
     "revelix": {
       "title": "ReveliX (Windows)",
-      "image": "https://cdn.discordapp.com/attachments/1258301507351351337/1336836786609066014/1327519786036367410.png?ex=67a541c7&is=67a3f047&hm=63184840edacefd790d01a427fd5870cfaf95e462b603ae2c033ebe670d9bd5a&",
-      "link": "https://gofile.io/d/NnuuYP",
-      "version": "Beta V1"
+      "image": "https://cdn.discordapp.com/emojis/1327519786036367410?size=512",
+      "link": "https://www.mediafire.com/file/8bj335fl9za2axu/ReveliX.zip/file",
+      "version": "version-8794089906d54893"
     }
   }
 }
