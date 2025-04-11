@@ -1,4 +1,4 @@
 Flask
-requests
+Flask-CORS
 aiohttp
-flask-cors
+requests
