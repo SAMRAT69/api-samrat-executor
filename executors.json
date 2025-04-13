@@ -3,8 +3,8 @@
     "fluxus": {
       "title": "Fluxus (Android)",
       "image": "https://flux.li/assets/faviconbutpng.e3767602.png",
-      "link": "https://webfiles.pro/file/Fluxus74.apk",
-      "version": "2.665"
+      "link": "https://fluxus.mobi/apk",
+      "version": "2.667"
     },
     "krnl": {
       "title": "Krnl (Android)",
@@ -240,6 +240,12 @@
       "image": "https://cdn.wearedevs.net/images/thumbnails/krnl.jpeg",
       "link": "https://cdnwrd2.com/r/54921/1744255219537/krnl_vng_release_2.666.609_2025.4.9_4.apk",
       "version": "2.666"
+    },
+    "fluxus": {
+      "title": "Fluxus (VNG ANDROID)",
+      "image": "https://flux.li/assets/faviconbutpng.e3767602.png",
+      "link": "https://fluxus.mobi/vng.apk",
+      "version": "2.655"
     },
     "cryptic": {
       "title": "Cryptic (VNG ANDROID)",
