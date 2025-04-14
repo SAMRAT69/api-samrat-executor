@@ -39,8 +39,8 @@
     "trigon": {
       "title": "Trigon (Android)",
       "image": "https://ugc.production.linktr.ee/YWHLFzTTTmm996iiTmBg_DG4Pp4UWb4U6N25d?io=true&size=avatar-v3_0",
-      "link": "https://www.mediafire.com/file/1nfqw82bkns9jmu/Trigon_v2.665.684.apk/file",
-      "version": "2.665"
+      "link": "https://www.mediafire.com/file/q8q9j1yd0z6rryg/Trigon_v2.666.apk/file",
+      "version": "2.666"
     },
     "revelix": {
       "title": "ReveliX (Android)",
@@ -75,7 +75,7 @@
     "nebula": {
       "title": "Nebula (Android)",
       "image": "https://files.catbox.moe/gl077v.png",
-      "link": "https://www.mediafire.com/file/04zwizo2iovbwzf/Nebula666.apk/file",
+      "link": "https://www.mediafire.com/file/vj5ppwbi5f28epy/Nebula666_Updated.apk/file",
       "version": "2.666"
     },
     "rift": {
@@ -239,6 +239,12 @@
       "title": "Krnl (VNG ANDROID)",
       "image": "https://cdn.wearedevs.net/images/thumbnails/krnl.jpeg",
       "link": "https://cdnwrd2.com/r/54921/1744255219537/krnl_vng_release_2.666.609_2025.4.9_4.apk",
+      "version": "2.666"
+    },
+    "nebula": {
+      "title": "Nebula (VNG ANDROID)",
+      "image": "https://files.catbox.moe/gl077v.png",
+      "link": "https://www.mediafire.com/file/iw21hk4w840skl1/Nebula666_VNG.apk/file",
       "version": "2.666"
     },
     "fluxus": {
