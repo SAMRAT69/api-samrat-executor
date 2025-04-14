@@ -259,5 +259,19 @@
       "link": "https://www.mediafire.com/file/v9en2c2onx7p3xs/Cryptic+2.666.609+VNG.apk/file",
       "version": "2.666"
     }
+  },
+  "macos": {
+    "macsploit": {
+      "title": "MacSploit (Msc OS)",
+      "image": "https://www.abyssdigital.xyz/Images/WhiteAbyss.png",
+      "link": "https://macsploit.sellsn.io/",
+      "version": "Unknown"
+    },
+    "hydrogen": {
+      "title": "Hydrogen (Mac OS)",
+      "image": "https://discord.do/wp-content/uploads/2023/08/Hydrogen.jpg",
+      "link": "https://0ai4bbbahf.ufs.sh/f/4fzhZqSSYIjmFuQJqzgHrQAIe0G7wnRxDcNTsfUYVjM6iZm1",
+      "version": "version-0c386869c4b64777"
+    }
   }
 }
