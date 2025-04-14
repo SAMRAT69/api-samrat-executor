@@ -69,7 +69,7 @@
     "frostware": {
       "title": "Frostware (Android)",
       "image": "https://files.catbox.moe/o5nmea.png",
-      "link": "https://www.mediafire.com/file/kuhz6k2qbsd5zml/Frostware+V4.1.apk/file",
+      "link": "https://www.mediafire.com/file/cnzyvckbrkxwizj/Frostware+GLOBAL+V4.2.apk/file",
       "version": "2.668"
     },
     "nebula": {
@@ -246,6 +246,12 @@
       "image": "https://files.catbox.moe/gl077v.png",
       "link": "https://www.mediafire.com/file/iw21hk4w840skl1/Nebula666_VNG.apk/file",
       "version": "2.666"
+    },
+    "frostware": {
+      "title": "Frostware (VNG ANDROID)",
+      "image": "https://files.catbox.moe/o5nmea.png",
+      "link": "https://www.mediafire.com/file/2oefdp15evvka2c/Frostware+VNG+V4.2.apk/file",
+      "version": "2.668"
     },
     "fluxus": {
       "title": "Fluxus (VNG ANDROID)",
